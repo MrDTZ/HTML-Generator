@@ -15,7 +15,7 @@
 
 - 📌️ $ apt install bash -y
 
-- 📌️ $ git clone
+- 📌️ $ git clone https://github.com/MrDTZ/HTML-Generator.git
 
 - 📌️ $ cd HTML-Generator
 
@@ -37,7 +37,7 @@
 
 - 📌️ $ sudo apt upgrade -y
 
-- 📌️ $ git clone 
+- 📌️ $ git clone https://github.com/MrDTZ/HTML-Generator.git
 
 - 📌️ $ cd HTML-Generator
 
